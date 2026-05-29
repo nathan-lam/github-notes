@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: nathan-lam.github.io
+  baseUrl: nathan-lam.github.io/github-notes
   ignorePatterns:
     - private
     - templates
