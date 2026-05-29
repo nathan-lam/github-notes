@@ -71,8 +71,7 @@ views:
     name: Table
     filters:
       and:
-        - file.inFolder("04 Notes/Disciplines/Statistics/Hypothesis Tests")
-        - '!file.tags.contains("Folder")'
+        - file.tags.contains("Statistics/Hypothesis-Test")
     order:
       - file.name
       - hypothesis_distribution

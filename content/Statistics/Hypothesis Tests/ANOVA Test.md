@@ -1,6 +1,6 @@
 ---
 hypothesis_distribution: F
-hypothesis_parameter: 
+hypothesis_parameter:
 tags:
   - Statistics/Hypothesis-Test
 ---

@@ -18,7 +18,7 @@ A Random Variable is described by a [[Probability Distribution Function]], which
 # Related
 - [[Sample Mean]]
 - [[Sample Variance]]
-- [[residuals]]
+- [[Residuals]]
 
 
 
