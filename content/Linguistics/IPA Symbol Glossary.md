@@ -1,0 +1,11 @@
+---
+tags:
+  - Linguistics
+---
+
+# Vowels
+- 
+
+
+# Consonants
+

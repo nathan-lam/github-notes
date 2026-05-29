@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"a8997c94b82997f8","x":-125,"y":-60,"width":165,"height":50,"type":"text","text":"Hidden Node"},
+		{"id":"2e2401034e83e75a","x":-167,"y":60,"width":250,"height":60,"type":"text","text":"Input Layer"}
+	],
+	"edges":[
+		{"id":"36c71953d0a12066","fromNode":"2e2401034e83e75a","fromSide":"top","toNode":"a8997c94b82997f8","toSide":"bottom"}
+	]
+}
