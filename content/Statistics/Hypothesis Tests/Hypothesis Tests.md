@@ -71,7 +71,7 @@ views:
     name: Table
     filters:
       and:
-        - file.tags.contains("Statistics/Hypothesis-Test")
+        - file.tags == "#Statistics/Hypothesis-Test"
     order:
       - file.name
       - hypothesis_distribution
